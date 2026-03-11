@@ -13,15 +13,17 @@
 - 💻 Passionate **Web Developer**
 - 🌐 Interested in **Internet of Things (IoT) Systems**
 - 🚀 Building real-world projects using **React, Firebase, and Modern Web Technologies**
-- 📚 Continuously learning **Full Stack Development & Embedded Systems**
+- 📚 Continuously learning **Full Stack Development,Embedded Systems & Data Structures and Algorithms**
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
+- C
 - C++
 - Java
+- Python
 - JavaScript
 - TypeScript
 
