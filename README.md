@@ -97,12 +97,13 @@ Online student admission management system.
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Contact Me
 
-- LinkedIn
-- Instagram
-- Twitter
+If you want to connect with me for collaboration, projects, or tech discussion.
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
+![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)
+![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)
 ---
 
 ⭐ *Feel free to explore my repositories and support them by giving a star.*
