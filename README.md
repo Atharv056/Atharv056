@@ -74,12 +74,6 @@ Online student admission management system.
 
 ---
 
-## 🔥 GitHub Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Atharv056&theme=tokyonight)
-
----
-
 ## 👀 Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Atharv056&color=blue)
