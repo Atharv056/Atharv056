@@ -71,9 +71,11 @@ Online admission management system.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Atharv056&theme=tokyonight)
 
 ---
-## 📈 Contribution Graph
 
-![Atharv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv056&theme=tokyo-night)
+## 🏆 GitHub Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Atharv056&theme=tokyonight&row=1&margin-w=15)
+
 # 👀 Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Atharv056&color=blue)
