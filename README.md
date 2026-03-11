@@ -72,10 +72,11 @@ Online admission management system.
 
 ---
 
-# 🐍 Contribution Snake
+## 🚀 Developer Activity
 
-![Snake animation](https://github.com/Atharv056/Atharv056/blob/output/github-contribution-grid-snake.svg)
----
+![Atharv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv056&theme=tokyo-night)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Atharv056&theme=tokyonight&row=1)
 
 # 👀 Profile Visitors
 
