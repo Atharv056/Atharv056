@@ -74,8 +74,7 @@ Online admission management system.
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/Atharv056/Atharv056/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Atharv056/Atharv056/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 👀 Profile Visitors
