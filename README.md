@@ -1,59 +1,26 @@
-
 <h1 align="center">Hi 👋, I'm Atharv Pokale</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Web+Developer;IoT+Enthusiast;Software+Developer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Web+Developer;IoT+Developer;React+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Diploma Student in **Computer Engineering**
-- 💻 Passionate **Web Developer**
-- 🌐 Interested in **Internet of Things (IoT) Systems**
-- 🚀 Building real-world projects using **React, Firebase, and Modern Web Technologies**
-- 📚 Continuously learning **Full Stack Development,Embedded Systems & Data Structures and Algorithms**
+🎓 Diploma Student in **Computer Engineering**
+
+💻 Passionate **Web Developer**
+
+📡 Interested in **IoT Systems and Embedded Development**
+
+🚀 Building projects using **React, Firebase, and Modern Web Technologies**
+
+🌱 Currently learning **Full Stack Development & Data Structures**
 
 ---
 
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-</p>
-
-### 🌐 Web Development
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-</p>
-
-### 📡 IoT & Embedded Systems
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" height="40"/>
-</p>
-
-### ⚙️ Tools
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-<img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" height="40"/>
-</p>
-
-
-
-
-## 👨‍💻 Languages & Tools
+# 🛠️ Languages & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -62,48 +29,67 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![ESP8266](https://img.shields.io/badge/ESP8266-IoT-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
----
-
-## 📂 Featured Projects
-
-### 🍬 Raj Sweet Mart
-E-commerce style sweet shop website with product catalog and admin management.
-
-### 🎬 CineVault
-Movie and TV show discovery website with modern UI and dark/light theme.
-
-### 📘 DSA
-Collection of **Data Structures and Algorithms** implementations in C++.
-
-### 🎓 Smart Admission Portal
-Online student admission management system.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ---
 
-## 📊 GitHub Statistics
+# 📂 Featured Projects
+
+🍬 **Raj Sweet Mart**  
+Sweet shop website with product catalog and admin system.
+
+🎬 **CineVault**  
+Movie & TV show themed website with dark/light mode.
+
+📘 **DSA Repository**  
+Data Structures & Algorithms programs in C++.
+
+🎓 **Smart Admission Portal**  
+Online admission management system.
+
+---
+
+# 📊 GitHub Stats
 
 ![Atharv GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharv056&show_icons=true&theme=tokyonight)
 
 ---
 
-## 👀 Profile Visitors
+# 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv056&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Atharv056&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Atharv056/Atharv056/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Atharv056&color=blue)
 
 ---
 
-## 📬 Contact Me
-
-If you want to connect with me for collaboration, projects, or tech discussion.
+# 📬 Connect With Me
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
-![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)
 ![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)
+
 ---
 
-⭐ *Feel free to explore my repositories and support them by giving a star.*
+⭐ *If you like my projects, consider giving them a star!*
