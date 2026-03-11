@@ -71,7 +71,6 @@ Online admission management system.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Atharv056&theme=tokyonight)
 
 ---
-
 ## 🏆 GitHub Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Atharv056&theme=tokyonight&row=1&margin-w=15)
