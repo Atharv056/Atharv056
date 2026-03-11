@@ -20,32 +20,35 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- TypeScript
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+</p>
 
 ### 🌐 Web Development
-- HTML
-- CSS
-- Tailwind CSS
-- React.js
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
+</p>
 
 ### 📡 IoT & Embedded Systems
-- ESP8266
-- Arduino
-- Sensor Integration
-- IoT Device Communication
-- Firebase Realtime Database for IoT
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" height="40"/>
+</p>
 
-### ⚙️ Tools & Platforms
-- Git
-- GitHub
-- Firebase
-- Vercel
-- VS Code
+### ⚙️ Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" height="40"/>
+</p>
 
 ---
 
