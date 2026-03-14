@@ -4,6 +4,22 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Web+Developer;IoT+Developer;React+Enthusiast&center=true&width=500&height=45">
 </p>
 
+
+---
+
+- I'm 19 years old Computer Engineering Student.
+  
+
+- Learning :
+
+    ✨ Data Structures & Algorithms
+    ✨ Front-end Web Development
+
+- Hobbies :
+
+    ✨ Gaming Addict
+    ✨ Music
+
 ---
 
 # 👨‍💻 About Me
