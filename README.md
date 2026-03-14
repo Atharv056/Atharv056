@@ -62,9 +62,9 @@
 
 # 📬 Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
-![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)
-![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)
+![LinkedIn](https://www.linkedin.com/feed/)
+![Instagram](https://www.instagram.com/atharv__pokale/?hl=en)
+![Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 ---
 
