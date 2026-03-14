@@ -12,12 +12,12 @@
 
 - Learning :
 
-    ✨ Data Structures & Algorithms/n
+    ✨ Data Structures & Algorithms
     ✨ Front-end Web Development
 
 - Hobbies :
 
-    ✨ Gaming Addict/n
+    ✨ Gaming Addict
     ✨ Music
 
 ---
