@@ -26,9 +26,9 @@
 
 🎓 Diploma Student in **Computer Engineering**
 
-💻 Passionate **Web Developer**
+💻 Interested in **Web Developer**
 
-📡 Interested in **IoT Systems and Embedded Development**
+📡  Beginner in **IoT Systems and Embedded Development**
 
 🚀 Building projects using **React, Firebase, and Modern Web Technologies**
 
