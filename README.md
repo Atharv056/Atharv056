@@ -53,12 +53,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ---
-
-# 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv056&layout=compact&theme=tokyonight)
-
----
 <h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
