@@ -17,7 +17,6 @@
 
 - Hobbies :
 
-    ✨ Gaming Addict
     ✨ Music
 
 ---
