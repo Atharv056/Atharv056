@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Web+Developer;IoT+Developer;React+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Full stack Web+Developer;IoT+Developer;React+Enthusiast&center=true&width=500&height=45">
 </p>
 
 
