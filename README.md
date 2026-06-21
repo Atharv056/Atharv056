@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atharv </h1>
 
-<p align="center">
+[<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Full stack Web+Developer;IoT+Developer;React+Enthusiast&center=true&width=500&height=45"> 
-</p>
+</p>](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Web+Developer;IoT+Developer;React+Enthusiast)
 
 
 ---
